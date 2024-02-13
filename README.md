@@ -10,6 +10,9 @@
 
 📫 Feel free to reach out if you'd like to collaborate, discuss tech, or simply chat about games—I'm here to connect and create awesome things together!
 
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/samuel-martucci-57710317b/)!
+
+🌐 Check out my portfolio at [sanimations.github.io/CRA-Portfolio/](https://sanimations.github.io/CRA-Portfolio/)!
 <!---
 sanimations/sanimations is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
